@@ -15,5 +15,4 @@ List of links that talks about how to optimise performance
 - Use Performance.now - https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
 - Understand critical rendering path - https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp?hl=en
 - http://techbeacon.com/web-performance-testing-top-12-free-open-source-tools-consider
-- Look at this guide for Sitespeed - https://confluence.devops.lloydsbanking.com/pages/viewpage.action?title=Automatic+Performance+and+Accessibility+testing+with+sitespeed.io+and+Pa11y&spaceKey=CJT
 - Console when potentially unnecessary re-renders occur https://github.com/garbles/why-did-you-update
